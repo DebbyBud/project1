@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Portfolio setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebbyBud/project1.git"
+  },
+  "author": "debby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebbyBud/project1/issues"
+  },
+  "homepage": "https://github.com/DebbyBud/project1#readme",
+  "devDependencies": {
+    "hint": "^7.1.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
