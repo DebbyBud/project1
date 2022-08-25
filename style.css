@@ -1,3 +1,6 @@
+/* stylelint-disable no-missing-end-of-source-newline */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,400&display=swap');
+
 body {
   background-color: #191765;
 }
@@ -164,7 +167,7 @@ head {
 
 .hr {
   max-width: 100%;
-  width: 580px;
+  width: 375px;
 }
 
 .table {
@@ -306,13 +309,14 @@ head {
   letter-spacing: 0.03em;
   color: rgb(148, 144, 255);
   text-align: left;
+  padding: 0 0 0 200px;
 }
 
 .F29 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 1.53vh;
+  padding: 0 0 0 200px;
   gap: 1.03vh;
   width: 23.8vh;
   height: 29.8vh;
@@ -467,6 +471,7 @@ head {
   flex-grow: 0;
   padding-left: 0;
   order: 1;
+  padding-top: 50px;
 }
 
 .social {
@@ -560,6 +565,7 @@ head {
   grid-template-rows: auto auto auto auto;
   gap: 40px;
   height: auto;
+  width: 375px;
 }
 
 .cut {
@@ -618,7 +624,7 @@ head {
   margin-bottom: 7.83vh;
 }
 
-.img {
+/* .img {
   background: linear-gradient(0deg, rgb(255, 255, 255), rgb(255, 255, 255)), url(img/work/Img-Placeholder.svg);
   width: 130.8vh;
   height: 74vh;
@@ -630,7 +636,7 @@ head {
   transition: all, 0.3s, ease-in-out;
   background-repeat: no-repeat;
   background-position: center;
-}
+} */
 
 .image2,
 .image3,
