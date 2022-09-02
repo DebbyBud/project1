@@ -1254,6 +1254,11 @@ textarea {
     margin-right: -7vh;
     margin-left: 24vh;
   }
+  
+  .button1{
+    text-align: center;
+    padding-left: 30px;
+  }
 
   .contact {
     display: flex;
