@@ -1231,6 +1231,7 @@ textarea {
     flex: none;
     order: 1;
     flex-grow: 0;
+    padding-right: 50px;
   }
 
   #another {
