@@ -1,8 +1,7 @@
+Portfolio: application deploy
 
 
-PORTIFOLIO SETUP
-
-> This is the finished mobile version of my portfolio.
+> This is the deplyoment of my portfolio setup.
 
 
 ## Built With
@@ -11,11 +10,14 @@ PORTIFOLIO SETUP
 - Git and Github
 - vs code, zoom.
 
+LIVE DEMO;
+https://debbybud.github.io/project1/
+
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/DebbyBud)
+- GitHub:(https://github.com/DebbyBud)
 
 
 
