@@ -11,4 +11,4 @@ document.querySelectorAll('.span').forEach((n) => n.addEventListener('click', ()
   navul.classList.remove('active');
 }));
 
-// this ends the humberger button js code
+
