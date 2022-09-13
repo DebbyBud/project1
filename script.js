@@ -10,5 +10,3 @@ document.querySelectorAll('.span').forEach((n) => n.addEventListener('click', ()
   hamburger.classList.remove('active');
   navul.classList.remove('active');
 }));
-
-
