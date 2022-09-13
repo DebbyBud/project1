@@ -77,6 +77,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-style: medium;
   font-size: 24px;
+}
+
 #menu {
   display: none;
 }
